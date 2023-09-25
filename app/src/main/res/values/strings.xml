@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustCodeHW2</string>
+    <string name="hello_title">Hello Application</string>
+    <string name="say_hello">Hello, my name is %s</string>
+</resources>
